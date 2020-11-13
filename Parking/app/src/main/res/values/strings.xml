@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Parking</string>
+
+    <string name="textview_parking_name">Name</string>
+    <string name="textview_availability">Availability</string>
+    <string name="textview_title">Parkings</string>
+    <string name="textview_naam_title">Naam</string>
+    <string name="textview_adres_title">Adres</string>
+    <string name="textview_address">Address</string>
+    <string name="textview_contact_title">Contact informatie</string>
+    <string name="textview_contact">Contact Info</string>
+    <string name="textview_totale_cap_title">Totale Capaciteit</string>
+    <string name="textview_totale_cap">Totale Capaciteit</string>
+</resources>
